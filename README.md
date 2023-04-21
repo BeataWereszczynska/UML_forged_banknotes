@@ -1,5 +1,5 @@
 # UML_forged_banknotes
-UML dimensionality reduction and clustering models for predicting if a banknote is genuine or not based on the dataset from OpenML containing wavelet analysis results for genuine and forged banknotes - practical exercise. (Python 3)
+**UML dimensionality reduction** and **clustering models** for predicting if a banknote is genuine or not based on the dataset from OpenML containing wavelet analysis results for genuine and forged banknotes - practical exercise. (Python 3)
 
 ## The repository contains:
 1. Jupyter notebook **UML_forged_banknotes.ipynb** with all the python code, visualizations and results.
@@ -14,4 +14,4 @@ Available at https://www.openml.org/search?type=data&sort=runs&id=1462&status=ac
 The project is licensed under the **MIT license**. See the LICENSE file for license rights and limitations.
 
 ## You may also like
-**SML_forged_banknotes** - Comparison of numerous supervised machine learning classifier models (**Logistic Regression**, **K-Nearest Neighbors**, **Support Vector Machines** and **Decision Trees**) predicting if a **banknote** is genuine or not based on the dataset from OpenML containing **wavelet analysis** results for genuine and forged banknotes (https://github.com/BeataWereszczynska/SML_forged_banknotes).
+**SML_forged_banknotes** - Comparison of numerous supervised machine learning classifier models (**Logistic Regression**, **K-Nearest Neighbors**, **Support Vector Machines** and **Decision Trees**) predicting if a banknote is genuine or not based on the dataset from OpenML containing wavelet analysis results for genuine and forged banknotes (https://github.com/BeataWereszczynska/SML_forged_banknotes).
