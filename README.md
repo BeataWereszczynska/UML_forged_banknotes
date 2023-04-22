@@ -1,5 +1,5 @@
 # UML_forged_banknotes
-**Unsupervised machine learning dimensionality reduction** and **clustering models** for predicting if a banknote is genuine or not based on the dataset from OpenML containing wavelet analysis results for genuine and forged banknotes - practical exercise. (Python 3)
+**Unsupervised machine learning dimensionality reduction** (Kernel PCA, TSNE) and **clustering models** (K-means, DBSCAN, agglomerative clustering) for predicting if a banknote is genuine or not based on the dataset from OpenML containing wavelet analysis results for genuine and forged banknotes - practical exercise. (Python 3)
 
 ## The repository contains:
 1. Jupyter notebook **UML_forged_banknotes.ipynb** with all the python code, visualizations and results.
